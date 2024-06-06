@@ -1,0 +1,19 @@
+.userInfo{
+    font-family : "Roboto";
+    font-size: 24px;
+    font-weight : 100;
+}
+
+.userChipStyle{
+    display: inline-block;
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 12px;
+    margin: 5px 10px 2px 0px ;
+    width: 90px;
+    padding: 8px;
+    border: 1px solid #9F94FF;
+    border-radius: 25px;
+    color: white;
+    background-color: #9F94FF;
+}
